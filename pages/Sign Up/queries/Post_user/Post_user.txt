@@ -1,0 +1,12 @@
+{{{
+  "userId": "{{Input1.text}}",
+  "email": "{{Input2.text}}",
+  "firstName": "{{Input3.text}}",
+  "lastName": "{{Input4.text}}",
+  "userArea": "{{Input5.text}}",
+  "age": {{Input6.number}},
+  "gender": "{{Gender.selectedOptionValue}}",
+  "bio": "{{Input7.text}}",
+  "sportName": "{{Sport.selectedOptionValues.join(', ')}}"
+}}}
+

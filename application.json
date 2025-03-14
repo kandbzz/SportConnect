@@ -1,0 +1,37 @@
+{
+  "appIsExample": false,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "color": "#F1DEFF",
+  "evaluationVersion": 2,
+  "pages": [
+    {
+      "id": "Home",
+      "isDefault": true
+    },
+    {
+      "id": "Tennis",
+      "isDefault": false
+    },
+    {
+      "id": "Sign Up",
+      "isDefault": false
+    },
+    {
+      "id": "Basketball",
+      "isDefault": false
+    },
+    {
+      "id": "Golf",
+      "isDefault": false
+    },
+    {
+      "id": "Swimming",
+      "isDefault": false
+    },
+    {
+      "id": "Badminton",
+      "isDefault": false
+    }
+  ]
+}
